@@ -1,26 +1,30 @@
 # One day
-One day plugin for Minecraft
 
 
-One day - 轻量化真实世界时间同步
+**轻量化真实世界时间同步插件**
 
-for more information:
+MCBBS论坛:
 https://www.mcbbs.net/thread-1374813-1-1.html
 
-本插件可用于服务器内时间与真实世界时间同步
+本插件可用于服务器内时间与真实世界时间同步    
 
->>优点
+  
+优点：
 
-1. 轻量：    插件大小小于5kb，不会增加服务器计算负担     
-2. 极易上手：安装插件后重启服务器即可，无需任何操作
-3. 方便：    如需调整时间，一个指令即可                          
-4. 兼容：    兼容多世界插件，同步多个世界的时间          
+**1. 轻量：**    插件大小小于**5kb**，不会增加服务器计算负担   
+
+**2. 极易上手：** 安装插件后重启服务器即可，无需任何操作
+
+**3. 方便：**    如需调整时间，一个指令即可     
+
+**4. 兼容：**    兼容多世界插件，同步多个世界的时间          
 
 ![194600umhsn5yqq3semgsh](https://github.com/zhouzhichao2017080429/One-day/assets/73045175/76284387-e959-4d70-b139-0052cc6d6115)
 
 ![234852gjh7a7gs79ap23s7](https://github.com/zhouzhichao2017080429/One-day/assets/73045175/7a2d1597-974d-4d56-aa6a-a0a3e34ea305)
 
 
+```
 package zzc.one_day;
 
 import java.util.Calendar;
@@ -166,3 +170,5 @@ public final class One_day extends JavaPlugin {
         }
     }
 }
+
+```
