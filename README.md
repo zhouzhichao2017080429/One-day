@@ -1,4 +1,4 @@
-# One day
+![时间同步](https://github.com/zhouzhichao2017080429/One-day/assets/73045175/049e52a8-83fa-468b-b610-b938d3aa8dec)# One day
 
 
 **轻量化真实世界时间同步插件**
@@ -18,7 +18,8 @@ https://www.mcbbs.net/thread-1374813-1-1.html
 
 **2. 极易上手：** 安装插件后重启服务器即可，无需任何操作      
 
-![Uploading 时间同步.png…]()
+
+![时间同步](https://github.com/zhouzhichao2017080429/One-day/assets/73045175/5c1eda30-332f-480e-b9da-d9e279ec6ce9)
 
 
 ![194600umhsn5yqq3semgsh](https://github.com/zhouzhichao2017080429/One-day/assets/73045175/76284387-e959-4d70-b139-0052cc6d6115)
