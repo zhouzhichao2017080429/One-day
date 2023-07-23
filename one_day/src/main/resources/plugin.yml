@@ -1,0 +1,7 @@
+name: One_day
+version: '${project.version}'
+main: zzc.one_day.One_day
+api-version: 1.20
+authors: [ zhouzhichao ]
+description: mapping 24000 ticks to 24 hours
+website: www.binhaixiaoshu.com
