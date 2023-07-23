@@ -1,4 +1,4 @@
-![时间同步](https://github.com/zhouzhichao2017080429/One-day/assets/73045175/049e52a8-83fa-468b-b610-b938d3aa8dec)# One day
+# One day
 
 
 **轻量化真实世界时间同步插件**
